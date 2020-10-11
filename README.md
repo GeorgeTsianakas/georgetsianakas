@@ -55,6 +55,10 @@ ___
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux)
 
+### Codewars Statistics
+
+![](https://www.codewars.com/users/GeorgeTsianakas/badges/large)
+
 ### GitHub Statistics
 
 <a href="https://github.com/georgetsianakas/georgetsianakas">
